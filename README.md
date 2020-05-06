@@ -1,8 +1,9 @@
 ## Available Scripts
-
-In the project directory, you can run:
+In the project directory
 ### `npm install`
-### `npm start` 
+In the project directory, you can run to start the client:
+### `npm start`
+In the project directory, you can run to start the server:
 ### `npm run server`
 
 
